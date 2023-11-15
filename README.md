@@ -1,5 +1,5 @@
 # mini_API_002-One-to-one-
-v. 2.0.0  + Database  ( ONE TO ONE )
+v. 2.0.0  + Database  ( association => ONE TO ONE )
 
 ## Api 
 
